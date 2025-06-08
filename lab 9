@@ -81,3 +81,29 @@ plt.xlabel('Number of Elements (n)')
 plt.ylabel('Time taken (seconds)')
 plt.grid(True)
 plt.show()
+
+Enter number of elements: 6000
+Time taken to sort 6000 elements: 0.031000 seconds
+
+********************************************************************
+
+
+Enter number of elements: 7000
+Time taken to sort 7000 elements: 0.034000 seconds
+
+********************************************************************
+
+
+Enter number of elements: 8000
+Time taken to sort 8000 elements: 0.047000 seconds
+
+********************************************************************
+
+
+Enter number of elements: 9000
+Time taken to sort 9000 elements: 0.052000 seconds
+
+********************************************************************
+
+Enter number of elements: 10000
+Time taken to sort 10000 elements: 0.077000 seconds
